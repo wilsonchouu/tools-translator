@@ -1,6 +1,8 @@
 # tools_translator
 Android、iOS资源文件机翻工具
 
+[项目链接](https://github.com/wilsonchouu/tools_translator)
+
 ### 前言
 由于APP开发中经常需要进行国际化，在人翻还没有进行完整翻译之前，使用机翻可以大概了解UI变动或者部分简单文本翻译。使用本工具省去了以往复制粘贴的繁琐操作。翻译功能基于百度翻译API实现，UI基于Swing实现。
 
